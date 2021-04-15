@@ -3,6 +3,9 @@
   <section>
     <h1 align="center">Hola 👋 ̜</h1>
   </section>
+  <section>
+    <h1 align="left">Acerca de mi: </h1>
+  </section>
   <nav>
     <li> Estdiante de Ingenieria de Sistemas de Informaciòn  </li>
     <li> Conocimiento en desarrollo web y escritorio  </li>
