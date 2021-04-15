@@ -19,6 +19,7 @@
     <li> Java 11  </li>
     <li> Javascript,Html,Css,Sass  </li>
     <li> React,Node,Express  </li>
+    <li> sql,Mysql </li>
     <li> proximamente React Native</li>
   </nav>
   
