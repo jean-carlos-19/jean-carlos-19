@@ -1,7 +1,7 @@
 
-<main>e 
+<main> 
   <figure align="center">
-    <img src"./Copia de Welcome - Made with PosterMyWall.gif" />
+    <img src"Copia de Welcome - Made with PosterMyWall.gif" />
    </figure>
   <section>
     <h1 align="center">Hola 👋 ̜</h1>
