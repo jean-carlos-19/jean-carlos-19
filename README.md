@@ -17,8 +17,27 @@
   </section>
   <nav>
     <li> Java 11  </li>
-    <li> Javascript,Html,Css  </li>
+    <li> Javascript,Html,Css,Sass  </li>
     <li> React,Node,Express  </li>
     <li> proximamente React Native</li>
+  </nav>
+  
+  
+   <section>
+    <h1 align="left">Contacto: </h1>
+  </section>
+  <nav>
+    <li> 
+      <a href="https://twitter.com/PiguaveJean">Twiter</a>
+    </li>
+    <li> 
+      <a href="https://github.com/jean-carlos-19">Github</a>
+    </li>
+    <li> 
+        <a href="https://devchallenges.io/portfolio/jean-carlos-19">Portafolio</a>
+    </li>
+    <li> 
+       <a href="https://mail.google.com/mail/"> Correo: piguavejc@gmail.com</a>
+    </li>
   </nav>
 </main>
