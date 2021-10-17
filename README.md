@@ -7,7 +7,7 @@
     <h1 align="center">Hola 👋 ̜</h1>
   </section>
   <section>
-    <h1 align="left"> </Acerca de mi>: </h1>
+    <h1 align="left"> Acerca de mi: </h1>
   </section>
   <nav>
     <li> Estdiante de Ingeniería de Sistemas de Información  </li>
