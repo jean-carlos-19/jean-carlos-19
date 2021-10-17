@@ -19,10 +19,31 @@
     <h1 align="left">Tecnologias: </h1>
   </section>
   <nav>
-    <li> Java 7  </li>
-    <li> Javascript,Html,Css,Sass  </li>
-    <li> React,Node,Express  </li>
-    <li> sql,Mysql </li>
+     <li> <b> Escritorio </b> </li>
+    <ul>
+     <li> Java 7  </li>
+    </ul>
+     <li> <b> Diseño Web </b> </li>
+    <ul>
+     <li> Figma </li>
+    </ul>
+    <li> <b> Desarrollo web responsivo </b> </li>
+     <ul>
+        <li> Html </li>
+        <li> Javascript </li>
+        <li> Css </li>
+        <li> Sass </li>
+    </ul>
+    <li> <b> Desarrollo Front end </b> </li>
+     <ul>
+        <li> React </li>
+        <li> Node </li>
+        <li> Express </li>
+      </ul>
+    <li> <b> Bases de datos </b> </li>
+     <ul>
+        <li> Mysql  </li>
+    </ul>
     <li> proximamente React Native</li>
   </nav>
   
