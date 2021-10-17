@@ -65,4 +65,9 @@
        <a href="https://mail.google.com/mail/"> Correo: piguavejc@gmail.com</a>
     </li>
   </nav>
+    <section>
+    <h1 align="left">Estadistica: </h1>
+  </section>
+  [![jean-carlos-19 GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-carlos-19)](https://github.com/jean-carlos-19/github-readme-stats)
+
 </main>
