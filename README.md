@@ -19,7 +19,7 @@
     <h1 align="left">Tecnologias: </h1>
   </section>
   <nav>
-    <li> Java 11  </li>
+    <li> Java 7  </li>
     <li> Javascript,Html,Css,Sass  </li>
     <li> React,Node,Express  </li>
     <li> sql,Mysql </li>
