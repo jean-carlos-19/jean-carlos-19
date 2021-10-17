@@ -10,8 +10,8 @@
     <h1 align="left">Acerca de mi: </h1>
   </section>
   <nav>
-    <li> Estdiante de Ingenieria de Sistemas de Informaciòn  </li>
-    <li> Conocimiento en desarrollo web y escritorio  </li>
+    <li> Estdiante de Ingeniería de Sistemas de Información  </li>
+    <li> Conocimiento en desarrollo web y escritorio y diseño de IU  </li>
     <li> Actualmente estoy aprendiendo desarrollo movil y patrones de diseño </li>
   </nav>
   
@@ -65,9 +65,4 @@
        <a href="https://mail.google.com/mail/"> Correo: piguavejc@gmail.com</a>
     </li>
   </nav>
-    <section>
-    <h1 align="left">Estadistica: </h1>
-  </section>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-carlos-19)](https://github.com/anuraghazra/github-readme-stats)
-
 </main>
