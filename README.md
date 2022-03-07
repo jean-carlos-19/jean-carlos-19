@@ -1,4 +1,4 @@
-!(cabecera)[https://github.com/jean-carlos-19/jean-carlos-19/blob/main/capturas/cabecera.png]
+![cabecera](https://github.com/jean-carlos-19/jean-carlos-19/blob/main/capturas/cabecera.png)
 ```javascript
 const thai = {
   pronouns: "she" | "her",
@@ -15,4 +15,4 @@ const thai = {
 
 [![Jean Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=jean-carlos-19)](https://github.com/anuraghazra/github-readme-stats)
 
-!(pie pagina)[https://github.com/jean-carlos-19/jean-carlos-19/blob/main/capturas/pie-pagina.png]
+![pie pagina](https://github.com/jean-carlos-19/jean-carlos-19/blob/main/capturas/pie-pagina.png)
