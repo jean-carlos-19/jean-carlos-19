@@ -4,9 +4,9 @@
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [SCSS, React,React-Native, Node, Express, Jest],
-  architecture: ["Pratron 7-1(SCSS)"]
+  code: [Javascript, Typescript, HTML, Ejs, CSS, Scss, Java],
+  tools: [React, React-Native, Node, Express, Jest],
+  architecture: ["Pratron 7-1(SCSS)","Clean architecture"]
 }
 ```
 ### Puedes Encontrarme en :earth_americas:
