@@ -3,10 +3,12 @@
 ### Acerca de mi en Codigo :technologist:
 ```javascript
 const ecu = {
-  Language: [Html, Ejs, Css, Scss, Javascript, Typescript, Java],
-  FrameWorks: [React, React-Native, Node, Express, Jest],
+  Language: [Html, Ejs, Css, Scss, Javascript, Typescript, Java, Git],
+  FrameWorks: [React, React-Native, Node, Express],
   database: [Mysql, Postgresql],
-  architecture: ["Pratron 7-1(SCSS)","Arquitectura Hexagonal"]
+  architecture: ["Pratron 7-1(SCSS)", "Arquitectura Hexagonal"],
+  methology: ["Atomic Design"],
+  
 }
 ```
 ### Puedes Encontrarme en :earth_americas:
