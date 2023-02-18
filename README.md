@@ -2,11 +2,11 @@
 
 ### Acerca de mi en Codigo :technologist:
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, Ejs, CSS, Scss, Java],
-  tools: [React, React-Native, Node, Express, Jest],
-  architecture: ["Pratron 7-1(SCSS)","Clean architecture"]
+const ecu = {
+  Language: [Html, Ejs, Css, Scss, Javascript, Typescript, Java],
+  FrameWorks: [React, React-Native, Node, Express, Jest],
+  database: [Mysql, Postgresql],
+  architecture: ["Pratron 7-1(SCSS)","Arquitectura Hexagonal"]
 }
 ```
 ### Puedes Encontrarme en :earth_americas:
